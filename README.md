@@ -1,2 +1,2 @@
 # Quis
-nama akun githubnya salah
+nama akun githubnya yang ngepush salah (yang benar Revan232)
